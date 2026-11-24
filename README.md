@@ -1,1 +1,2 @@
 # basecamp-team-37
+This is the project by Team 37 (Ammar and Isaac) for the UCL Data Science Society Project Labs 2026. This project is part of the theme AI for work, and investigates the use of AI in various industries in regions in the UK, and predicting whether AI use correlates with economic growth for the industries and regions that use it.
