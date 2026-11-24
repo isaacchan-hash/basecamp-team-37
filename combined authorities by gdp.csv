@@ -1,19 +1,4 @@
-,Geocode,"ITL
-code","GDP at
-current
-market
-prices
-(£ million)","GDP per
-head at
-current
-market
-prices
-(£)","Annual growth
-in ‘real’ GDP
-(percentage)","Annual growth
-in ‘real’ GDP
-per head
-(percentage)"
+Region Name,Geocode,ITL code,GDP at current market prices (� million),GDP per head at current market prices (�),Annual growth in real GDP (percentage),Annual growth in real GDP per head (percentage)
 West of England,E47000009,TLK5,"50,391","50,353",3.2,1.6
 "Cambridgeshire
 and Peterborough",E47000008,TLH4,"42,747","45,769",2.7,1.3
